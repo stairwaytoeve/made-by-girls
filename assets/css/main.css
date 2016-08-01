@@ -1,0 +1,172 @@
+@import "https://fonts.googleapis.com/css?family=Arizonia|Just+Me+Again+Down+Here";
+html {
+  height: 100%;
+  padding: 0; }
+
+body {
+  height: 100%;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  background-color: #ffffff; }
+  body:after {
+    content: " ";
+    display: block;
+    clear: both; }
+
+header {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  padding-left: 0.83333%;
+  padding-right: 0.83333%;
+  background-image: url("http://localhost/made-by-girls/assets/img/bg.jpg");
+  padding-bottom: 1%;
+  margin-top: 0;
+  min-height: 100%; }
+  header .container {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 33.33333%;
+    float: left;
+    margin-left: 33.33333%;
+    margin-right: -100%;
+    padding-left: 0.83333%;
+    padding-right: 0.83333%;
+    background-color: rgba(255, 255, 255, 0.3);
+    padding-bottom: 1%;
+    margin-top: 5em; }
+
+h1 {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 50%;
+  float: left;
+  margin-left: 25%;
+  margin-right: -100%;
+  padding-left: 0.83333%;
+  padding-right: 0.83333%;
+  margin-top: 4em;
+  font-family: Helvetica, sans-serif;
+  font-weight: normal;
+  text-align: center; }
+  h1 p.made-by {
+    font-family: "Just Me Again Down Here", cursive;
+    font-size: 2em;
+    margin: 0;
+    padding: 0;
+    color: #F3603F; }
+  h1 p.girls {
+    font-size: 3em;
+    margin-top: -0.48em;
+    margin-bottom: 0;
+    padding: 0;
+    color: #A23C4A;
+    text-transform: uppercase; }
+
+.top-menu {
+  width: 100%;
+  display: block;
+  padding: 0;
+  margin-top: 0; }
+  .top-menu ul {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 33.33333%;
+    float: left;
+    margin-left: 33.33333%;
+    margin-right: -100%;
+    padding-left: 0.83333%;
+    padding-right: 0.83333%;
+    padding-left: 0.83333%;
+    padding-right: 0.83333%; }
+  .top-menu li {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 25%;
+    float: left;
+    padding-left: 0.83333%;
+    padding-right: 0.83333%;
+    color: #643047;
+    font-family: Helvetica, sans-serif;
+    display: inline-block;
+    text-align: center;
+    box-sizing: border-box; }
+  .top-menu li a {
+    font-family: Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 1em;
+    color: #fff;
+    text-decoration: none; }
+  .top-menu li a:hover {
+    color: #2A1735; }
+
+.search {
+  clear: both; }
+  .search input {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 25%;
+    float: left;
+    margin-left: 33.33333%;
+    margin-right: -100%;
+    padding-left: 0.83333%;
+    padding-right: 0.83333%;
+    color: #A23C4A;
+    font-family: Helvetica, sans-serif;
+    font-size: 1em;
+    background-color: #eee;
+    border: 1px solid #eee;
+    height: 3em; }
+  .search input:focus {
+    border: #bbb;
+    outline: none; }
+  .search button {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 8.33333%;
+    float: left;
+    margin-left: 58.33333%;
+    margin-right: -100%;
+    padding-left: 0.83333%;
+    padding-right: 0.83333%;
+    background-color: #A23C4A;
+    border: 1px solid #A23C4A;
+    font-size: 1em;
+    color: #fff;
+    height: 3em; }
+
+.itens {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+  float: left;
+  padding-left: 0.83333%;
+  padding-right: 0.83333%; }
+
+.box {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 33.33333%;
+  float: left;
+  padding-left: 0.83333%;
+  padding-right: 0.83333%;
+  background-color: #eee;
+  text-align: center;
+  display: inline-block; }
+  .box h3 {
+    background-color: #ccc;
+    color: #fff; }
+
+/*# sourceMappingURL=main.css.map */

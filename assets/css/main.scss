@@ -1,0 +1,137 @@
+@import "susy";
+@import 'https://fonts.googleapis.com/css?family=Arizonia|Just+Me+Again+Down+Here';
+$susy: (
+  columns: 12,
+  math: fluid,
+  output: float,
+  gutters: 1/4,
+  gutter-position: inside,
+);
+$main-font:   Helvetica, sans-serif;
+$cursive-font: 'Just Me Again Down Here', cursive;
+$dark-blue: #2A1735;
+$dark-purple: #643047;
+$light-purple: #A23C4A;
+$magenta: #F3603F;
+$orange: #FD972B;
+
+
+
+html{
+	height: 100%;
+	padding: 0;
+}
+
+body {
+  height: 100%;
+	@include container;
+	margin-top: 0;
+	background-color: #ffffff;
+}
+
+header {
+	@include span(12);
+	background-image: url("http://localhost/made-by-girls/assets/img/bg.jpg");
+  padding-bottom:1%;
+  margin-top: 0;
+  min-height: 100%;
+  .container {
+    @include span(4 at 5 isolate);
+    background-color: rgba(255,255,255,0.3);
+    padding-bottom: 1%;
+    margin-top: 5em;
+  }
+
+}
+h1{
+  @include span(6 at 4 isolate);
+  p.made-by{
+    font-family: $cursive-font;
+    font-size: 2em;
+    margin: 0;
+    padding: 0;
+    color: $magenta;
+  }
+  p.girls{
+    font-size: 3em;
+    margin-top: -0.48em;
+    margin-bottom: 0;
+    padding: 0;
+    color: $light-purple;
+    text-transform: uppercase;
+  }
+  margin-top: 4em;
+	font-family: $main-font;
+	font-weight: normal;
+  text-align: center;
+}
+.top-menu {
+  width: 100%;
+  display: block;
+  padding: 0;
+  margin-top: 0;
+	ul{
+    @include span(4 at 5 isolate);
+    @include gutters(inside);
+	}
+	li{
+    @include span(3);
+    color: $dark-purple;
+    font-family: $main-font;
+		display: inline-block;
+    text-align: center;
+    box-sizing: border-box;
+	}
+  li a{
+    font-family: $main-font;
+    text-transform: uppercase;
+    font-size: 1em;
+    color: #fff;
+    text-decoration: none;
+  }
+  li a:hover{
+    color: $dark-blue;
+  }
+}
+
+
+.search {
+  clear: both;
+	input{
+    @include span(3 at 5 isolate);
+		color: $light-purple;
+		font-family: $main-font;
+		font-size: 1em;
+		background-color: #eee;
+		border: 1px solid #eee;
+		height: 3em;
+	}
+  input:focus {
+    border: #bbb;
+    outline: none;
+  }
+	button{
+    @include span(1 at 8 isolate);
+		background-color: $light-purple;
+		border: 1px solid $light-purple;
+    font-size: 1em;
+		color: #fff;
+		height: 3em;
+	}
+}
+
+.itens{
+  @include span(12);
+}
+.box {
+  @include span(4);
+	background-color: #eee;
+	text-align: center;
+	display: inline-block;
+	h3{
+		background-color: #ccc;
+		color: #fff;
+	}
+	img{}
+	content{}
+}

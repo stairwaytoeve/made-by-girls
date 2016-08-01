@@ -1,0 +1,704 @@
+[
+    {
+    	"nomeLoja": "Fusce Corporation",
+        "url": "http://placeimg.com/300/150",
+		"tipo": "Human Resources",
+		"nomeGirl": "Serina",
+		"email": "et.ipsum@maurissitamet.org",
+		"contato": "(06) 3237 9624"
+	},
+	{
+		"nomeLoja": "Ante Nunc Industries",
+        "url": "http://placeimg.com/300/150",
+		"tipo": "Human Resources",
+		"nomeGirl": "Casey",
+		"email": "tristique.neque.venenatis@mollisInteger.net",
+		"contato": "(02) 7936 9954"
+	},
+	{
+		"nomeLoja": "Facilisi Sed Industries",
+		"tipo": "Accounting",
+		"nomeGirl": "Hadley",
+		"email": "eget@in.ca",
+		"contato": "(06) 3797 7884"
+	},
+	{
+		"nomeLoja": "Mi Associates",
+		"tipo": "Human Resources",
+		"nomeGirl": "Melyssa",
+		"email": "sollicitudin.orci.sem@ipsum.com",
+		"contato": "(01) 2670 0264"
+	},
+	{
+		"nomeLoja": "Velit Sed Consulting",
+		"tipo": "Accounting",
+		"nomeGirl": "Melyssa",
+		"email": "nibh.Aliquam.ornare@Donectincidunt.org",
+		"contato": "(08) 1111 1389"
+	},
+	{
+		"nomeLoja": "Pede Ultrices A Incorporated",
+		"tipo": "Legal Department",
+		"nomeGirl": "Robin",
+		"email": "luctus.Curabitur@ultricessit.org",
+		"contato": "(08) 4615 5962"
+	},
+	{
+		"nomeLoja": "Adipiscing Fringilla Porttitor Institute",
+		"tipo": "Human Resources",
+		"nomeGirl": "Giselle",
+		"email": "nec@risusatfringilla.com",
+		"contato": "(01) 3225 5521"
+	},
+	{
+		"nomeLoja": "Nunc Quisque Ornare Corp.",
+		"tipo": "Finances",
+		"nomeGirl": "Ora",
+		"email": "Donec@quis.com",
+		"contato": "(09) 4411 6553"
+	},
+	{
+		"nomeLoja": "Diam Sed LLC",
+		"tipo": "Tech Support",
+		"nomeGirl": "Jane",
+		"email": "enim.commodo@nonummyut.net",
+		"contato": "(09) 1074 5354"
+	},
+	{
+		"nomeLoja": "Sed Nec Foundation",
+		"tipo": "Finances",
+		"nomeGirl": "Ifeoma",
+		"email": "sollicitudin.commodo@neque.ca",
+		"contato": "(09) 6617 8001"
+	},
+	{
+		"nomeLoja": "Nulla Aliquet Proin PC",
+		"tipo": "Quality Assurance",
+		"nomeGirl": "Teagan",
+		"email": "cubilia.Curae.Donec@Cras.net",
+		"contato": "(02) 4688 9781"
+	},
+	{
+		"nomeLoja": "Malesuada Industries",
+		"tipo": "Advertising",
+		"nomeGirl": "Maxine",
+		"email": "adipiscing.elit@urnaUttincidunt.edu",
+		"contato": "(02) 4687 2216"
+	},
+	{
+		"nomeLoja": "At Incorporated",
+		"tipo": "Sales and Marketing",
+		"nomeGirl": "Constance",
+		"email": "id.ante@duiSuspendisse.org",
+		"contato": "(05) 2711 4060"
+	},
+	{
+		"nomeLoja": "Rutrum Magna Cras Associates",
+		"tipo": "Legal Department",
+		"nomeGirl": "Shaine",
+		"email": "euismod.et@velconvallisin.org",
+		"contato": "(05) 2941 1404"
+	},
+	{
+		"nomeLoja": "Ac Urna Corp.",
+		"tipo": "Finances",
+		"nomeGirl": "Debra",
+		"email": "dolor@odioNam.co.uk",
+		"contato": "(06) 1529 9225"
+	},
+	{
+		"nomeLoja": "Sodales Purus LLC",
+		"tipo": "Customer Service",
+		"nomeGirl": "Galena",
+		"email": "tincidunt.Donec.vitae@PhasellusornareFusce.net",
+		"contato": "(05) 7856 1630"
+	},
+	{
+		"nomeLoja": "Aliquam Auctor Velit Ltd",
+		"tipo": "Advertising",
+		"nomeGirl": "Venus",
+		"email": "Donec.sollicitudin@nonvestibulumnec.com",
+		"contato": "(08) 9285 1633"
+	},
+	{
+		"nomeLoja": "A Corp.",
+		"tipo": "Customer Service",
+		"nomeGirl": "Jaden",
+		"email": "Nam.ligula.elit@Donec.org",
+		"contato": "(04) 8654 7694"
+	},
+	{
+		"nomeLoja": "Elit Ltd",
+		"tipo": "Tech Support",
+		"nomeGirl": "Maya",
+		"email": "diam@euelit.co.uk",
+		"contato": "(06) 0011 0593"
+	},
+	{
+		"nomeLoja": "Velit Aliquam Company",
+		"tipo": "Legal Department",
+		"nomeGirl": "Nina",
+		"email": "id.sapien.Cras@semperetlacinia.co.uk",
+		"contato": "(07) 7741 7991"
+	},
+	{
+		"nomeLoja": "Aliquam Vulputate Ullamcorper Foundation",
+		"tipo": "Finances",
+		"nomeGirl": "May",
+		"email": "ante.blandit@sagittisDuisgravida.edu",
+		"contato": "(08) 1235 6320"
+	},
+	{
+		"nomeLoja": "Cursus Vestibulum Mauris Corporation",
+		"tipo": "Research and Development",
+		"nomeGirl": "Madonna",
+		"email": "a.felis.ullamcorper@vestibulum.co.uk",
+		"contato": "(09) 1603 9722"
+	},
+	{
+		"nomeLoja": "Diam Corporation",
+		"tipo": "Human Resources",
+		"nomeGirl": "Kylan",
+		"email": "placerat@ligulaNullamfeugiat.co.uk",
+		"contato": "(01) 7932 9856"
+	},
+	{
+		"nomeLoja": "Egestas Hendrerit LLP",
+		"tipo": "Media Relations",
+		"nomeGirl": "Hilda",
+		"email": "vitae.diam.Proin@venenatis.net",
+		"contato": "(04) 7171 9642"
+	},
+	{
+		"nomeLoja": "Ligula Institute",
+		"tipo": "Research and Development",
+		"nomeGirl": "Bianca",
+		"email": "risus@duisemper.ca",
+		"contato": "(01) 5781 0363"
+	},
+	{
+		"nomeLoja": "Amet Massa Industries",
+		"tipo": "Asset Management",
+		"nomeGirl": "Guinevere",
+		"email": "sagittis.felis@urnasuscipitnonummy.edu",
+		"contato": "(04) 3446 2613"
+	},
+	{
+		"nomeLoja": "Rutrum Fusce Industries",
+		"tipo": "Accounting",
+		"nomeGirl": "Galena",
+		"email": "diam.lorem.auctor@Donecfeugiat.co.uk",
+		"contato": "(05) 9818 7954"
+	},
+	{
+		"nomeLoja": "Pharetra Nam Ac Industries",
+		"tipo": "Media Relations",
+		"nomeGirl": "Fleur",
+		"email": "consectetuer@atarcu.org",
+		"contato": "(06) 9456 1108"
+	},
+	{
+		"nomeLoja": "In Company",
+		"tipo": "Legal Department",
+		"nomeGirl": "Cara",
+		"email": "mus@lacinia.ca",
+		"contato": "(01) 0526 5389"
+	},
+	{
+		"nomeLoja": "Aliquam Foundation",
+		"tipo": "Legal Department",
+		"nomeGirl": "Zorita",
+		"email": "Nunc.lectus@eu.co.uk",
+		"contato": "(05) 7341 1217"
+	},
+	{
+		"nomeLoja": "Eu Eros Industries",
+		"tipo": "Media Relations",
+		"nomeGirl": "Jana",
+		"email": "dis.parturient.montes@egetmassaSuspendisse.co.uk",
+		"contato": "(08) 9889 4344"
+	},
+	{
+		"nomeLoja": "Nunc Interdum Feugiat Industries",
+		"tipo": "Human Resources",
+		"nomeGirl": "Zelda",
+		"email": "porta.elit@idsapien.edu",
+		"contato": "(04) 7790 1496"
+	},
+	{
+		"nomeLoja": "Consequat Incorporated",
+		"tipo": "Customer Service",
+		"nomeGirl": "Amelia",
+		"email": "Nullam@vitae.com",
+		"contato": "(01) 1402 8763"
+	},
+	{
+		"nomeLoja": "Sed Pharetra LLC",
+		"tipo": "Quality Assurance",
+		"nomeGirl": "Kylan",
+		"email": "fringilla@quispede.ca",
+		"contato": "(07) 2209 2541"
+	},
+	{
+		"nomeLoja": "Et Commodo At Industries",
+		"tipo": "Human Resources",
+		"nomeGirl": "Ainsley",
+		"email": "quis.lectus@adui.net",
+		"contato": "(03) 1032 6478"
+	},
+	{
+		"nomeLoja": "Posuere Corporation",
+		"tipo": "Tech Support",
+		"nomeGirl": "Jade",
+		"email": "semper.tellus.id@tinciduntnunc.ca",
+		"contato": "(05) 2041 4499"
+	},
+	{
+		"nomeLoja": "Vivamus Nisi LLC",
+		"tipo": "Media Relations",
+		"nomeGirl": "Zephr",
+		"email": "eu.metus.In@Mauris.ca",
+		"contato": "(05) 7592 4927"
+	},
+	{
+		"nomeLoja": "Id Nunc Corp.",
+		"tipo": "Media Relations",
+		"nomeGirl": "Quemby",
+		"email": "enim.Etiam.gravida@luctus.edu",
+		"contato": "(09) 7227 5707"
+	},
+	{
+		"nomeLoja": "Vehicula Consulting",
+		"tipo": "Payroll",
+		"nomeGirl": "Orla",
+		"email": "Duis@natoquepenatibuset.org",
+		"contato": "(02) 6917 5361"
+	},
+	{
+		"nomeLoja": "Duis Mi Corp.",
+		"tipo": "Advertising",
+		"nomeGirl": "Rachel",
+		"email": "vitae.semper.egestas@nonlaciniaat.net",
+		"contato": "(09) 5458 7678"
+	},
+	{
+		"nomeLoja": "Ultrices Vivamus Limited",
+		"tipo": "Media Relations",
+		"nomeGirl": "Britanney",
+		"email": "ultricies@dictumProineget.com",
+		"contato": "(03) 4450 5535"
+	},
+	{
+		"nomeLoja": "Justo Company",
+		"tipo": "Tech Support",
+		"nomeGirl": "Alana",
+		"email": "orci.quis@mi.net",
+		"contato": "(03) 4399 3520"
+	},
+	{
+		"nomeLoja": "Nibh Industries",
+		"tipo": "Public Relations",
+		"nomeGirl": "Tana",
+		"email": "eu.arcu.Morbi@lobortisClassaptent.edu",
+		"contato": "(06) 9500 8909"
+	},
+	{
+		"nomeLoja": "Adipiscing Elit Consulting",
+		"tipo": "Accounting",
+		"nomeGirl": "Buffy",
+		"email": "mauris@interdum.net",
+		"contato": "(03) 7627 2420"
+	},
+	{
+		"nomeLoja": "Elit Fermentum Risus Associates",
+		"tipo": "Quality Assurance",
+		"nomeGirl": "Lesley",
+		"email": "Donec.consectetuer@dolortempusnon.co.uk",
+		"contato": "(02) 1871 8499"
+	},
+	{
+		"nomeLoja": "Sed Nec Corp.",
+		"tipo": "Public Relations",
+		"nomeGirl": "Eliana",
+		"email": "ac.mattis.ornare@nisiMauris.net",
+		"contato": "(01) 0002 3145"
+	},
+	{
+		"nomeLoja": "Faucibus Orci LLP",
+		"tipo": "Accounting",
+		"nomeGirl": "Ann",
+		"email": "neque@acnullaIn.com",
+		"contato": "(02) 4703 6241"
+	},
+	{
+		"nomeLoja": "Cursus Vestibulum Mauris Inc.",
+		"tipo": "Finances",
+		"nomeGirl": "April",
+		"email": "vestibulum.nec@Morbineque.org",
+		"contato": "(01) 5181 2304"
+	},
+	{
+		"nomeLoja": "Libero At Company",
+		"tipo": "Sales and Marketing",
+		"nomeGirl": "Xandra",
+		"email": "sed@magnaNam.co.uk",
+		"contato": "(01) 0035 5904"
+	},
+	{
+		"nomeLoja": "Habitant Inc.",
+		"tipo": "Advertising",
+		"nomeGirl": "Miranda",
+		"email": "amet.diam@sed.ca",
+		"contato": "(03) 8166 7308"
+	},
+	{
+		"nomeLoja": "Donec Company",
+		"tipo": "Tech Support",
+		"nomeGirl": "Tashya",
+		"email": "sociis.natoque.penatibus@dolorQuisquetincidunt.org",
+		"contato": "(05) 6384 0693"
+	},
+	{
+		"nomeLoja": "Malesuada Vel Ltd",
+		"tipo": "Sales and Marketing",
+		"nomeGirl": "Iona",
+		"email": "vel.venenatis.vel@rutrum.edu",
+		"contato": "(06) 9066 8130"
+	},
+	{
+		"nomeLoja": "Justo Nec Ante Limited",
+		"tipo": "Advertising",
+		"nomeGirl": "Lenore",
+		"email": "ultrices@nisimagnased.ca",
+		"contato": "(07) 9054 3918"
+	},
+	{
+		"nomeLoja": "Sed Dictum Associates",
+		"tipo": "Finances",
+		"nomeGirl": "Ava",
+		"email": "vel@at.net",
+		"contato": "(05) 8463 9340"
+	},
+	{
+		"nomeLoja": "Ligula Aenean Institute",
+		"tipo": "Tech Support",
+		"nomeGirl": "Colleen",
+		"email": "et.malesuada@urnanecluctus.net",
+		"contato": "(09) 7365 1284"
+	},
+	{
+		"nomeLoja": "Tincidunt Nibh PC",
+		"tipo": "Customer Relations",
+		"nomeGirl": "Lunea",
+		"email": "venenatis.a.magna@idmagna.ca",
+		"contato": "(03) 8656 6927"
+	},
+	{
+		"nomeLoja": "Sit Industries",
+		"tipo": "Customer Relations",
+		"nomeGirl": "Celeste",
+		"email": "dictum.sapien.Aenean@nullaInteger.net",
+		"contato": "(02) 4404 7851"
+	},
+	{
+		"nomeLoja": "Mi Associates",
+		"tipo": "Public Relations",
+		"nomeGirl": "Rana",
+		"email": "id@mauris.net",
+		"contato": "(04) 8487 9624"
+	},
+	{
+		"nomeLoja": "Vivamus Euismod Corporation",
+		"tipo": "Public Relations",
+		"nomeGirl": "Sierra",
+		"email": "in@ametmassaQuisque.co.uk",
+		"contato": "(06) 3406 1710"
+	},
+	{
+		"nomeLoja": "Lobortis Augue Scelerisque Limited",
+		"tipo": "Research and Development",
+		"nomeGirl": "Adena",
+		"email": "egestas@magna.com",
+		"contato": "(08) 3727 9900"
+	},
+	{
+		"nomeLoja": "Purus Duis Inc.",
+		"tipo": "Media Relations",
+		"nomeGirl": "Chanda",
+		"email": "eu.eleifend@Etiamvestibulum.com",
+		"contato": "(01) 7005 5525"
+	},
+	{
+		"nomeLoja": "Penatibus Corporation",
+		"tipo": "Sales and Marketing",
+		"nomeGirl": "Kiayada",
+		"email": "Pellentesque@a.ca",
+		"contato": "(04) 2168 2403"
+	},
+	{
+		"nomeLoja": "Bibendum Ullamcorper Duis Inc.",
+		"tipo": "Customer Service",
+		"nomeGirl": "Illiana",
+		"email": "dictum.Phasellus@feugiatnecdiam.com",
+		"contato": "(01) 9547 7524"
+	},
+	{
+		"nomeLoja": "Euismod Industries",
+		"tipo": "Research and Development",
+		"nomeGirl": "Delilah",
+		"email": "Nam.tempor.diam@nostra.edu",
+		"contato": "(06) 9554 9577"
+	},
+	{
+		"nomeLoja": "Dolor Sit Amet LLC",
+		"tipo": "Quality Assurance",
+		"nomeGirl": "Robin",
+		"email": "in.consectetuer.ipsum@felisNullatempor.org",
+		"contato": "(06) 7923 5992"
+	},
+	{
+		"nomeLoja": "Sit Amet Consulting",
+		"tipo": "Customer Service",
+		"nomeGirl": "Lenore",
+		"email": "ut.molestie.in@tortornibh.org",
+		"contato": "(02) 8249 0390"
+	},
+	{
+		"nomeLoja": "Nullam Feugiat Placerat Industries",
+		"tipo": "Research and Development",
+		"nomeGirl": "Whoopi",
+		"email": "convallis@rutrumurnanec.ca",
+		"contato": "(09) 5013 3403"
+	},
+	{
+		"nomeLoja": "Fusce Dolor Limited",
+		"tipo": "Customer Relations",
+		"nomeGirl": "Hilary",
+		"email": "eget.odio.Aliquam@nonlobortisquis.edu",
+		"contato": "(01) 8055 6643"
+	},
+	{
+		"nomeLoja": "Pede Industries",
+		"tipo": "Legal Department",
+		"nomeGirl": "Ulla",
+		"email": "interdum.Nunc.sollicitudin@habitantmorbi.ca",
+		"contato": "(04) 1340 4299"
+	},
+	{
+		"nomeLoja": "Augue Scelerisque Consulting",
+		"tipo": "Finances",
+		"nomeGirl": "Lynn",
+		"email": "nisi.Mauris@Nulla.com",
+		"contato": "(09) 5512 1793"
+	},
+	{
+		"nomeLoja": "Consectetuer Adipiscing Elit Associates",
+		"tipo": "Payroll",
+		"nomeGirl": "Maggie",
+		"email": "nec.diam.Duis@felisullamcorper.ca",
+		"contato": "(09) 0932 9153"
+	},
+	{
+		"nomeLoja": "Amet Company",
+		"tipo": "Research and Development",
+		"nomeGirl": "Natalie",
+		"email": "In.scelerisque.scelerisque@vestibulum.co.uk",
+		"contato": "(05) 9731 1821"
+	},
+	{
+		"nomeLoja": "Ac Corporation",
+		"tipo": "Advertising",
+		"nomeGirl": "Adria",
+		"email": "gravida.Aliquam.tincidunt@augue.ca",
+		"contato": "(07) 2080 0745"
+	},
+	{
+		"nomeLoja": "Feugiat Metus Sit Ltd",
+		"tipo": "Quality Assurance",
+		"nomeGirl": "Elizabeth",
+		"email": "non.lorem.vitae@tellus.net",
+		"contato": "(01) 2667 1984"
+	},
+	{
+		"nomeLoja": "Molestie PC",
+		"tipo": "Research and Development",
+		"nomeGirl": "Erica",
+		"email": "eu.ligula@ornarelectus.ca",
+		"contato": "(05) 7652 7716"
+	},
+	{
+		"nomeLoja": "Condimentum Eget Volutpat Associates",
+		"tipo": "Research and Development",
+		"nomeGirl": "Chantale",
+		"email": "magna.sed.dui@Pellentesqueutipsum.net",
+		"contato": "(08) 3390 8898"
+	},
+	{
+		"nomeLoja": "Porttitor Vulputate LLC",
+		"tipo": "Quality Assurance",
+		"nomeGirl": "Jorden",
+		"email": "ultrices.Duis@nuncest.edu",
+		"contato": "(04) 9081 9867"
+	},
+	{
+		"nomeLoja": "Posuere Cubilia PC",
+		"tipo": "Customer Relations",
+		"nomeGirl": "Helen",
+		"email": "Nunc.commodo.auctor@nulla.net",
+		"contato": "(03) 2714 2879"
+	},
+	{
+		"nomeLoja": "Tincidunt Associates",
+		"tipo": "Accounting",
+		"nomeGirl": "Maris",
+		"email": "nisi@velvenenatisvel.edu",
+		"contato": "(02) 4418 3638"
+	},
+	{
+		"nomeLoja": "Id Ltd",
+		"tipo": "Tech Support",
+		"nomeGirl": "Britanney",
+		"email": "tincidunt.tempus.risus@tacitisociosquad.com",
+		"contato": "(05) 5142 2691"
+	},
+	{
+		"nomeLoja": "Magna Consulting",
+		"tipo": "Media Relations",
+		"nomeGirl": "Keiko",
+		"email": "eget.dictum.placerat@auctornunc.ca",
+		"contato": "(06) 3517 3819"
+	},
+	{
+		"nomeLoja": "Pharetra Ltd",
+		"tipo": "Payroll",
+		"nomeGirl": "Margaret",
+		"email": "vel.vulputate@nequeMorbi.edu",
+		"contato": "(06) 9261 4819"
+	},
+	{
+		"nomeLoja": "Pharetra Felis Ltd",
+		"tipo": "Quality Assurance",
+		"nomeGirl": "Charde",
+		"email": "Fusce.diam.nunc@leoVivamus.com",
+		"contato": "(04) 8309 0486"
+	},
+	{
+		"nomeLoja": "Torquent Per Conubia Associates",
+		"tipo": "Legal Department",
+		"nomeGirl": "Donna",
+		"email": "Aliquam@libero.edu",
+		"contato": "(02) 2401 4539"
+	},
+	{
+		"nomeLoja": "Eu Incorporated",
+		"tipo": "Quality Assurance",
+		"nomeGirl": "Keelie",
+		"email": "ornare.facilisis@velnislQuisque.ca",
+		"contato": "(06) 8571 6823"
+	},
+	{
+		"nomeLoja": "Fusce Ltd",
+		"tipo": "Advertising",
+		"nomeGirl": "Madaline",
+		"email": "mi.enim@lectus.ca",
+		"contato": "(01) 8301 9274"
+	},
+	{
+		"nomeLoja": "In Scelerisque Industries",
+		"tipo": "Media Relations",
+		"nomeGirl": "Tashya",
+		"email": "dolor.quam.elementum@fringilla.com",
+		"contato": "(01) 3958 0410"
+	},
+	{
+		"nomeLoja": "Ipsum Consulting",
+		"tipo": "Quality Assurance",
+		"nomeGirl": "Amy",
+		"email": "interdum@idsapien.com",
+		"contato": "(07) 0978 5017"
+	},
+	{
+		"nomeLoja": "Curabitur Corporation",
+		"tipo": "Asset Management",
+		"nomeGirl": "Amaya",
+		"email": "faucibus.ut.nulla@augue.co.uk",
+		"contato": "(09) 9905 2747"
+	},
+	{
+		"nomeLoja": "Parturient Corporation",
+		"tipo": "Asset Management",
+		"nomeGirl": "Virginia",
+		"email": "vulputate.eu.odio@sedduiFusce.com",
+		"contato": "(08) 0102 5764"
+	},
+	{
+		"nomeLoja": "Quam Institute",
+		"tipo": "Finances",
+		"nomeGirl": "Joan",
+		"email": "ante.Vivamus.non@sed.ca",
+		"contato": "(08) 7225 2960"
+	},
+	{
+		"nomeLoja": "Lorem Industries",
+		"tipo": "Public Relations",
+		"nomeGirl": "Marah",
+		"email": "at.sem@metusAliquamerat.co.uk",
+		"contato": "(09) 3528 6013"
+	},
+	{
+		"nomeLoja": "Auctor Nunc Associates",
+		"tipo": "Advertising",
+		"nomeGirl": "Tara",
+		"email": "malesuada.fames@turpis.co.uk",
+		"contato": "(03) 5459 0155"
+	},
+	{
+		"nomeLoja": "Tempor Foundation",
+		"tipo": "Sales and Marketing",
+		"nomeGirl": "Mechelle",
+		"email": "adipiscing.non.luctus@Nam.ca",
+		"contato": "(02) 9594 9035"
+	},
+	{
+		"nomeLoja": "Semper Tellus LLP",
+		"tipo": "Tech Support",
+		"nomeGirl": "Dai",
+		"email": "nunc.ullamcorper@nisl.net",
+		"contato": "(03) 0974 4877"
+	},
+	{
+		"nomeLoja": "Risus Quisque Libero Consulting",
+		"tipo": "Customer Service",
+		"nomeGirl": "Isabella",
+		"email": "laoreet.lectus@quisurnaNunc.org",
+		"contato": "(05) 5233 9618"
+	},
+	{
+		"nomeLoja": "Nunc Nulla PC",
+		"tipo": "Sales and Marketing",
+		"nomeGirl": "Dominique",
+		"email": "et.arcu.imperdiet@ipsumCurabiturconsequat.edu",
+		"contato": "(05) 4525 7413"
+	},
+	{
+		"nomeLoja": "Lacus Etiam Bibendum LLC",
+		"tipo": "Public Relations",
+		"nomeGirl": "Anika",
+		"email": "pellentesque.eget@mollisduiin.com",
+		"contato": "(03) 5394 9339"
+	},
+	{
+		"nomeLoja": "Vitae Incorporated",
+		"tipo": "Advertising",
+		"nomeGirl": "Iris",
+		"email": "Ut.sagittis.lobortis@ornare.org",
+		"contato": "(02) 4093 3362"
+	},
+	{
+		"nomeLoja": "Varius Limited",
+		"tipo": "Payroll",
+		"nomeGirl": "Jessica",
+		"email": "pellentesque.a.facilisis@tellussem.net",
+		"contato": "(05) 7536 6616"
+	}
+]
